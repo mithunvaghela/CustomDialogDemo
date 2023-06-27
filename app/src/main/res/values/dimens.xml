@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="container_corner_radius">12dp</dimen>
+    <dimen name="screen_padding">16dp</dimen>
+    <dimen name="screen_container_padding">8dp</dimen>
+    <dimen name="list_container_padding">4dp</dimen>
+    <dimen name="dialog_max_width">330dp</dimen>
+    <dimen name="dialog_container_width">314dp</dimen>
+    <dimen name="dialog_max_height">407dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dialog_btn_horizontal_margin">16dp</dimen>
+    <dimen name="input_label_size">12sp</dimen>
+    <dimen name="input_height">56dp</dimen>
+    <dimen name="button_text_size">14sp</dimen>
+    <dimen name="button_corner_radius">8dp</dimen>
+    <dimen name="input_stroke_size">0.5dp</dimen>
+    <dimen name="input_inner_text_size">16sp</dimen>
+    <dimen name="home_container_top_margin">8dp</dimen>
+    <dimen name="dialog_btn_text_size">14sp</dimen>
+    <dimen name="dialog_btn_vertical_margin">8dp</dimen>
+    <dimen name="actionbar_vertical_padding">8dp</dimen>
+    <dimen name="actionbar_horizontal_padding">16dp</dimen>
+    <dimen name="small_input_text_size">10sp</dimen>
+    <dimen name="caption">12sp</dimen>
+    <dimen name="obs_input_min_width">0.50</dimen>
+</resources>

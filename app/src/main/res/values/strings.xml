@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CustomDialogDemo</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="birth_weight">Birth Weight</string>
+    <string name="apgar_1min">Apgar at 1min</string>
+    <string name="apgar_5min">Apgar at 5min</string>
+    <string name="sex">Sex</string>
+    <string name="baby_status">Baby Status</string>
+    <string name="mother_status">Mother Status</string>
+    <string name="additional_information">Additional Information</string>
+
+    <string name="enter_birth_weight">Enter Birth Weight</string>
+    <string name="enter_apgar_at_1_min">Enter Apgar at 1 min</string>
+    <string name="enter_apgar_at_5_min">Enter Apgar at 5 min</string>
+    <string name="enter_sex_of_baby">Enter Sex of baby</string>
+    <string name="enter_baby_status">Enter Baby Status</string>
+    <string name="enter_mother_status">Enter Mother Status</string>
+    <string name="yes">Yes</string>
+</resources>
